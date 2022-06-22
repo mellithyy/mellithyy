@@ -1,21 +1,7 @@
-<!--
-**mellithyy/mellithyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align='center'> Hi there, I'm Mohamed El-lithy 👋</h1>
 <h2 align= 'center'> A Passionate Data Scientist | Machine Learning Engineer</h2>
 
-- 🔭 I'm currently learning: [Machine Learning with Python: From Linear Models to Deep Learning, MITx](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) 
+- 🔭 I'm currently learning: [Machine Learning with Python: From Linear Models to Deep Learning, MIT](https://www.edx.org/course/machine-learning-with-python-from-linear-models-to) 
 
 - 🤔 I’m seeking a career in **Data Science** and **Machine Learning**.
 
@@ -31,6 +17,7 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-el-lithy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-el-lithy" height="30" width="40" /></a>
+<a href="https://fb.com/m.ellithyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.ellithyy" height="30" width="40" /></a>
 <a href="https://instagram.com/m.ellithy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.ellithy" height="30" width="40" /></a>
 </p>
 
