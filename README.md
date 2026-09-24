@@ -1,65 +1,27 @@
-<h1 align='center'> Hi there, I'm Mohamed El-laithy 👋</h1>
-<h2 align= 'center'> Data Analyst | Data Engineer | Machine Learning Enthusiast</h2>
+<img src="banner.png" alt="Mohamed Ellithy, Data Analyst in Al Khobar, Saudi Arabia. SQL, Python, Power BI, Tableau, ETL automation." width="100%">
 
-<!-- Bio & Current Focus -->
-<p align="center">
-  Experienced Automation and Analytics Engineer from Egypt transitioning into a full Data Engineering and Data Science career path. I leverage Python, SQL, and cloud technologies to transform raw data into actionable insights and build scalable data solutions. Currently pursuing my MSc in Data Science to deepen my expertise in complex data modeling and machine learning techniques.
-</p>
+At Nokia (Sep 2023 to Jan 2026) I automated telecom KPI reporting with Python and SQL. Manual reporting dropped by 85%, a 6-hour XML processing job now runs in 20 minutes, and about 98% of manual data entry was removed. I'm also studying for an MSc in Data Science at the University of East London.
 
-## 🎯 Professional Focus
+**Open to Data Analyst and BI roles** in Khobar, Dammam, Riyadh and Jeddah. Transferable Iqama, available now.
 
-*   **Core Expertise:** Designing and implementing modern data warehouses using Medallion Architecture (Bronze, Silver, Gold layers).
-*   **Current Pursuit:** Deepening knowledge in Machine Learning (MSc. Data Science, UEL 2024-Present).
-*   **Career Interest:** Seeking roles in **Data Engineering**, **Data Science**, and **Machine Learning**.
-*   **Open For:** Networking opportunities and project collaborations.
+Contact: [LinkedIn](https://www.linkedin.com/in/mohamed-el-lithy/)
 
----
+## Projects
 
-## 🛠️ Technical Stack & Tools
-<p align="left"> 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40""")/>> 
-  </a> 
-  
-  <!-- Databases/SQL -->
-   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" alt="SQL" width="40" height="40""")/>> 
-  </a>
+| Project | What it shows | Tools |
+|---|---|---|
+| **[Riyadh 4G Network Intelligence](https://github.com/mellithyy/riyadh-4g-network-intelligence)**<br>[Live dashboard](https://mellithyy.github.io/riyadh-4g-network-intelligence/) | Benchmarked 3 LTE operators on 2.7M crowdsourced measurements. Found 4 data-quality defects (27.5% of rows) that would have flipped the operator ranking. 24-hour traffic forecasts where SARIMA beat 4 baselines (MASE 0.76). | Python<br>statsmodels<br>Tableau |
+| **[Saudi Consumer Spending Intelligence](https://github.com/mellithyy/saudi-consumer-spending-intelligence)**<br>In progress | Weekly card spending by city and sector from SAMA point-of-sale data (270 weeks, 31,262 rows). Stage 1 of 7 done: API extraction with checks. Next: cleaning, SQL warehouse, Power BI dashboard and forecast. | Python<br>pandas<br>SQL<br>Power BI |
+| **[SQL Server Data Warehouse](https://github.com/mellithyy/sql-data-warehouse-with-eda-project)**<br>Course project | Bronze, silver and gold layers, T-SQL ETL and a star schema over ERP and CRM data, with SQL analysis of customers, products and sales. | SQL Server<br>T&#8209;SQL |
+| **[Heart Disease Diagnosis](https://github.com/mellithyy/heart-disease-diagnosis)** | Raised the F1-score from 18% to 91% on an imbalanced dataset with chi-squared feature selection. Three-model voting classifier served as a Flask app. | Python<br>scikit&#8209;learn<br>Flask |
 
-  <!-- Data Visualization/BI -->
-  <!--Power BI link -->
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="40" height="40""")/>> 
-  </a>
-  
-  <!--Tableau link -->
-  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="Tableau" width="40" height="40""")/>> 
-  </a>
-  
-  <!-- Data Analysis/ML/Frameworks -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40""")/>> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40""")/>> 
-  </a> 
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40""")/>> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40""")/>> 
-  </a> 
-</p>
+## Tools
 
+| Area | Tools |
+|---|---|
+| Analysis | SQL, Python (pandas, NumPy), statistics, forecasting (SARIMA, Prophet) |
+| BI and reporting | Power BI (DAX, Power Query), Tableau, Excel |
+| Data engineering | ETL pipelines, data-quality checks, SQL Server, star schema |
+| Workflow | Git, GitHub, Jupyter, VS Code |
 
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-el-lithy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-el-lithy" height="30" width="40" /></a>
-<a href="https://fb.com/m.ellithyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m.ellithyy" height="30" width="40" /></a>
-<a href="https://instagram.com/m.ellithy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m.ellithy" height="30" width="40" /></a>
-</p>
+**Earlier coursework (2021 to 2022):** [US Bike Share Analysis](https://github.com/mellithyy/Explore-US-Bikeshare-Data) · [Automatic Review Analyzer](https://github.com/mellithyy/Automatic-Review-Analyzer) · [MNIST Digit Recognition](https://github.com/mellithyy/MNIST_Digit_Recognition_with_Non-Linear_Classification)
