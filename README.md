@@ -4,15 +4,19 @@ At Nokia (Sep 2023 to Jan 2026) I automated telecom KPI reporting with Python an
 
 **Open to Data Analyst and BI roles** in Khobar, Dammam, Riyadh and Jeddah. Transferable Iqama, available now.
 
-Portfolio: [mohamedellithy.com](https://mohamedellithy.com/) · Contact: [LinkedIn](https://www.linkedin.com/in/mohamed-el-lithy/)
+Portfolio: [mohamedellithy.com](https://mohamedellithy.com/) · Contact: [LinkedIn](https://www.linkedin.com/in/mohamed-el-lithy/) · [Contact page](https://mohamedellithy.com/contact)
 
 ## Projects
+
+**At Nokia**, written up on the portfolio with illustrative data (the code and the data stay with the company): [KPI Report Engine](https://mohamedellithy.com/work/nokia-kpi) · [NetAct XML Loader](https://mohamedellithy.com/work/nokia-xml) · [Event-Day Reports](https://mohamedellithy.com/work/nokia-events) · [No-Code KPI Decks](https://mohamedellithy.com/work/nokia-drg)
+
+**My own projects:**
 
 | Project | What it shows | Tools |
 |---|---|---|
 | **[Riyadh 4G Benchmark](https://github.com/mellithyy/riyadh-4g-network-intelligence)**<br>[Live dashboard](https://mohamedellithy.com/riyadh-4g-network-intelligence/) | Benchmarked 3 LTE operators on 2.7M crowdsourced measurements. Found 4 data-quality defects (27.5% of rows) that would have flipped the operator ranking. 24-hour traffic forecasts where SARIMA beat 4 baselines (MASE 0.76). | Python<br>statsmodels<br>Tableau |
-| **[Saudi Card Spending](https://github.com/mellithyy/saudi-consumer-spending-intelligence)**<br>[Live dashboard](https://mohamedellithy.com/saudi-consumer-spending-intelligence/) | Card spending in Saudi Arabia from SAMA's own data: daily by city and activity since 2024 (60 cities, 30 activities), weekly since 2020, monthly since 2016. Downloads from SAMA's open data portal and PDF reports, SQL cleaning with checks (every week reconciled with SAMA's weekly reports), a weekly refresh that holds new data when a check fails, a DuckDB star schema, a 12-week forecast tested against SARIMAX, Holt-Winters, Prophet and gradient boosting, and a 9-page dashboard in English and Arabic, every page checked against SQL. The first version was built in Power BI. The code and the data are private. | Python<br>pandas<br>SQL<br>DuckDB<br>JavaScript<br>Power BI<br>DAX<br>Excel |
-| **[Sales Data Warehouse](https://github.com/mellithyy/sql-data-warehouse-with-eda-project)**<br>Course project | Bronze, silver and gold layers, T-SQL ETL and a star schema over ERP and CRM data, with SQL analysis of customers, products and sales. | SQL Server<br>T&#8209;SQL |
+| **[Saudi Card Spending](https://github.com/mellithyy/saudi-consumer-spending-intelligence)**<br>[Live dashboard](https://mohamedellithy.com/saudi-consumer-spending-intelligence/) | Card spending in Saudi Arabia from SAMA's own data: daily by city and activity since 2024 (60 cities, 19 activities), weekly since 2020, monthly since 2016. Downloads from SAMA's open data portal and PDF reports, SQL cleaning with checks (every week reconciled with SAMA's weekly reports), a weekly refresh that holds new data when a check fails, a DuckDB star schema, a 12-week forecast tested against SARIMAX, Holt-Winters, Prophet and gradient boosting, and a 9-page dashboard in English and Arabic, every page checked against SQL. The first version was built in Power BI. The code and the data are private. | Python<br>pandas<br>SQL<br>DuckDB<br>JavaScript<br>Power BI<br>DAX<br>Excel |
+| **[Sales Data Warehouse](https://github.com/mellithyy/sql-data-warehouse-with-eda-project)**<br>[Portfolio page](https://mohamedellithy.com/work/sql-dwh) · Course project | Bronze, silver and gold layers, T-SQL ETL and a star schema over ERP and CRM data, with SQL analysis of customers, products and sales. | SQL Server<br>T&#8209;SQL |
 | **[Heart Risk Model](https://github.com/mellithyy/heart-disease-risk-model)**<br>[Live app](https://mohamedellithy.com/heart-app/) | 15 yearly CDC surveys (6.7M adults) harmonised into one dataset. Audited my 2022 model (a data leak turned F1 0.29 into 0.91) and rebuilt it with a 2025 hold-out test: ROC-AUC 0.85, calibrated. A web app where the model runs in the browser. | Python<br>pandas<br>scikit&#8209;learn<br>JavaScript |
 
 ## Tools
